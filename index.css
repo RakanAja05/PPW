@@ -17,11 +17,11 @@ section {
     display: flex;
     flex-direction: row;
     flex-wrap:wrap;
-    justify-content: center ;
+    justify-content: flex-start ;
     } 
 article { 
     padding: 10px; 
     margin: 10px; 
     background: aqua; 
-    width: 32%; 
+    width: 30%; 
     }

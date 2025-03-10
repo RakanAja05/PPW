@@ -15,7 +15,7 @@ h1 {
 section { 
     zoom: 0.8;
     display: flex;
-    flex-dorection: row;
+    flex-direction: row;
     flex-wrap:wrap;
     justify-content: center ;
     } 

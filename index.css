@@ -13,10 +13,15 @@ h1 {
     margin: 0; 
     } 
 section { 
-    zoom: 0.8; 
+    zoom: 0.8;
+    display: flex;
+    flex-dorection: row;
+    flex-wrap:wrap;
+    justify-content: center ;
     } 
 article { 
     padding: 10px; 
     margin: 10px; 
     background: aqua; 
+    min-width: 400px; 
     }
